@@ -1,5 +1,5 @@
 //PROGRAMMER: EMILY S. ROSE
-//FALL 2015
+//SPRING 2015
 
 #include "stdafx.h"
 #include "adj_matrix.h"
